@@ -32,7 +32,7 @@ Tämä on harjoitustyön etusivu
 
 * K3237
 * Versionumero 1.0.0
-* [Linkki vaatimusmäärittelyyn](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-vaatimusmaarittely.md)
+* [Linkki vaatimusmäärittelyyn](vaatimusmaarittely)
 
 
 
