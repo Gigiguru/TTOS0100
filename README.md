@@ -25,13 +25,13 @@ Tämä on harjoitustyön etusivu
 # XXXX-palvelun vaatimusmäärittely
 
 
-![](https://openclipart.org/image/300px/svg_to_png/38449/58294main-The.Brain.in.Space-page-111-experiment-3d-2.png&disposition=attachment)
+![](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJOxVPHNFYtPeMq6FyPpcEjbJg7d_VJfLHVFruusDEe4JiGsXrwLMRBw)
 
 
 ### Tiedot
 
-* Nimimerkki
-* Versionumero X.Y.Z
+* K3237
+* Versionumero 1.0.0
 * [Linkki vaatimusmäärittelyyn](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-vaatimusmaarittely.md)
 
 
