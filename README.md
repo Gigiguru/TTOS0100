@@ -19,7 +19,7 @@ this is my readme.
 TTOS0100 Kurssin harjoitustyö HT0
 
 Tämä on harjoitustyön etusivu
-:-DDDDDDDDDDDDDDD
+:-DDDDDDDDDDDDDDDD
 
 
 # XXXX-palvelun vaatimusmäärittely
