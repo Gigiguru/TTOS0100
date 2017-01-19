@@ -1,4 +1,4 @@
-# TTOS0100
+﻿# TTOS0100
 
 this is my readme.
 
@@ -19,7 +19,7 @@ this is my readme.
 TTOS0100 Kurssin harjoitustyö HT0
 
 Tämä on harjoitustyön etusivu
-
+:-DDDDDDDDDDDDDDD
 
 
 # XXXX-palvelun vaatimusmäärittely
