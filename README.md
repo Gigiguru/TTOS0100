@@ -3,8 +3,14 @@
 this is my readme.
 
 ## alaotsikko
-asdadsadsa
-![](http://imgur.com/r/doge/4rwYS)
+
+| koira |kpl |
+|:------|---:|
+| suomenpystykorva |30 |
+| snautseri |1200|
+
+
+
 ### alaotsikko
 
 [koira - wikipedia](http://www.iltalehti.fi/)
